@@ -1,1 +1,1 @@
-# executable for v1 of FTL Multiverse Save editor
+Executable for FTL Multiverse Save editor version v1
