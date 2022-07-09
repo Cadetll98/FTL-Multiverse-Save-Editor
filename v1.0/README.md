@@ -1,4 +1,4 @@
-# First version of save editor for **Multiverse Mod**. Orignal code in C, now mostly in C++. 
+# First version of save editor for __Multiverse Mod__. Orignal code in C, now mostly in C++. 
 
 * Added 5 buttons to modify Hull, Fuel, Missle, Drone and Scrap of save file. 
 
